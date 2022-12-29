@@ -9,5 +9,5 @@
 - Let Hotels maintain a record of rooms, amenities, restaurants and their booking data
 
 ## Entity Relationship Diagram
-[]()
+[](https://github.com/krishna-aditi/hotel-database-management-systems/blob/main/ERD/ERD.PNG)
 
